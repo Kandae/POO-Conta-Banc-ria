@@ -8,10 +8,11 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Banco Horizonte</h1>
-<div class="container">
+    <div class="container">
 <button onclick="window.location.href='banco.php'">Acessar Banco</button>
 </div>
+<h1>Banco Horizonte</h1>
+
 </body>
 </html>
 <style>
